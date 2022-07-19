@@ -1,11 +1,14 @@
+# Compiled class file
 *.class
+
+# Log file
 *.log
+
+# BlueJ files
 *.ctxt
-.mtj.tmp/
 
-.idea
-
-# package Files #
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/# Package Files #
 *.jar
 *.war
 *.nar
@@ -20,5 +23,5 @@ hs_err_pid*
 .project
 .settings
 target
-
+.idea
 *.iml
